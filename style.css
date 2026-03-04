@@ -1,1 +1,17 @@
+/* Paragraph 3 */
+.external-paragraph {
+  color: purple;
+  text-decoration: underline;
+}
 
+/* Highlight 3 */
+.external-highlight {
+  color: blue;
+  text-decoration: underline;
+}
+
+/* Building 3 */
+.external-building {
+  color: brown;
+  text-decoration: underline;
+}
